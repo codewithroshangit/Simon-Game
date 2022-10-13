@@ -1,1 +1,3 @@
 # Simon-Game
+Build Using HTML,CSS,javascrit(jquery).
+..............THANK YOU...............
